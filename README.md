@@ -1,21 +1,13 @@
-bk_distributions
+# bk_distributions
 
 bk_distributions is a Python library for creating, doing operations with and plotting statistical distributions.
 
 ## Installation
 
-Use the package manager pip to install foobar.
+Use the package manager pip to install bk-distributions.
 
 ```bash
 pip install bk-distributions
-```
-
-## Usage
-
-```python
-import bk_distributions
-
-TODO: write case
 ```
 
 ## Contributing
